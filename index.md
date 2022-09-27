@@ -4,5 +4,15 @@
 
 By visiting my website. I hope you:
 - enjoy reading through the work I've done
-- get some *inspiration* for your coding journey
+- follow along my coding journey throughout CSE 15L
 - and, most importantly, **HAVE FUN!**
+
+--- 
+
+As I am quite new to programming, I try to maintain a positive learning mindset
+throughout all the ups and downs and give myself the time to build up my experience.
+Here's a quote that motivates me to dive right into coding:
+> “For the things we have to learn before we can do them, 
+> we learn by doing them.”
+
+  
