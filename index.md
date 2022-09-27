@@ -1,6 +1,6 @@
 # Hello World! 
 
-## Welcomg to **Tarun Murugesan's** GitHub Pages Portfolio!
+## Welcome to **Tarun Murugesan's** GitHub Pages Portfolio!
 
 By visiting my website. I hope you
 - enjoy reading through the work I've done
