@@ -22,3 +22,4 @@ pwd
 ```
 
 Click here to go back to my [GitHub portfolio](https://github.com/tarunkm02).
+![Image](https://www.macmillandictionary.com/external/slideshow/full/emoji_thumbs-up_full.jpg)
