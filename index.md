@@ -21,4 +21,4 @@ cat
 pwd
 ```
 
-Click here to go back to my [GitHub portfolio] (https://github.com/tarunkm02).
+Click here to go back to my [GitHub portfolio](https://github.com/tarunkm02).
