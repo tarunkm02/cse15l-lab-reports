@@ -1,10 +1,10 @@
-# 'Hello World!'
+# Hello World!
 
 ## Welcome to **Tarun Murugesan's** GitHub Pages Portfolio!
 
 By visiting my website. I hope you:
 - enjoy reading through the work I've done
-- follow along my coding journey throughout CSE 15L
+- follow along my `coding` journey throughout CSE 15L
 - and, most importantly, **HAVE FUN!**
 
 --- 
