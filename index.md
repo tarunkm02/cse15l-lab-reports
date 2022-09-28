@@ -13,7 +13,7 @@ As I am quite new to programming, I try to maintain a positive learning mindset 
 Here's a quote that motivates me to dive right into coding: 
 > “For the things we have to learn before we can do them, we learn by doing them.”
 
-Here are a few cmd line tools I've already learned a bit more about:
+Here are a few cmd line tools I've already learned a bit more about in CSE 15L:
 ```
 cd
 ls
