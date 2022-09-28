@@ -22,4 +22,8 @@ pwd
 ```
 
 Click here to go back to my [GitHub portfolio](https://github.com/tarunkm02).
+
+Click here to view my [Lab 0 Report](https://tarunkm02.github.io/cse15l-lab-reports/lab-report-1-week-0.html).
+
 ![Image](https://www.macmillandictionary.com/external/slideshow/full/emoji_thumbs-up_full.jpg)
+
